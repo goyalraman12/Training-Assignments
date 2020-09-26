@@ -37,7 +37,6 @@ body {
 }
 .search{
     display: inline-block;
-        
     size: 13.3333px;
     width: 100%;
     padding: 0px;
@@ -52,8 +51,12 @@ body {
 input {
   padding: 4px;
   border: 1px solid #eee;
-  
 }
 .login_link{
     text-decoration: underline;
+}
+hr{
+    height:2px;
+    background: #000;
+    margin-top: 200px;
 }
